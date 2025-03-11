@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
-  <channel id="9x.jhakas">
-    <display-name lang="en">9X Jhakas</display-name>
+  <channel id="9x.jhakaas">
+    <display-name lang="en">9X Jhakaas</display-name>
     <icon src="https://i.ibb.co/3yVL1zM6/NnKOV9c.png" />
     <icon src="https://i.ibb.co/3yVL1zM6/NnKOV9c.png" />
-    <url>https://www.9xjhakas.in</url>
+    <url>https://www.9xjhakaas.in</url>
   </channel>
   <channel id="9x.tashan">
     <display-name lang="en">9X Tashan</display-name>
@@ -48,10 +48,52 @@
      <icon src="https://i.ibb.co/PgVDKVQ/YrfMusic.png" />
      <url>https://www.yrfmusic.in</url>
    </channel>
-   <channel id="Brit.asia.tv">
+   <channel id="brit.asia.tv">
      <display-name lang="en">Brit Asia TV</display-name>
      <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
      <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
      <url>https://www.britasiatv.in</url>
+   </channel>
+   <channel id="shemaroo.filmi.gaane">
+     <display-name lang="en">Shemaroo Filmi Gaane</display-name>
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <url>https://www.shemaroofilmigaane.in</url>
+   </channel>
+   <channel id="wild.earth">
+     <display-name lang="en">Wild Earth</display-name>
+     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
+     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
+     <url>https://www.wildearth.in</url>
+   </channel>
+   <channel id="hbo.family">
+     <display-name lang="en">HBO Family</display-name>
+     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
+     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
+     <url>https://www.hbofamily.com</url>
+   </channel>
+   <channel id="tnt.sports.1">
+     <display-name lang="en">TNT Sports 1</display-name>
+     <icon src="https://i.ibb.co/bMs3Y9WD/CSeeBxG.png" />
+     <icon src="https://i.ibb.co/bMs3Y9WD/CSeeBxG.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="fox.sports.501">
+     <display-name lang="en">Fox Sports 501</display-name>
+     <icon src="https://i.ibb.co/vCLSYscb/YNrgGoJ.png" />
+     <icon src="https://i.ibb.co/vCLSYscb/YNrgGoJ.png" />
+     <url>https://www.foxsports.com</url>
+   </channel>
+   <channel id="willow.hd">
+     <display-name lang="en">Willow HD</display-name>
+     <icon src="https://i.ibb.co/8PFvdk8/Willow-By-Cricbuzzpng.png" />
+     <icon src="https://i.ibb.co/8PFvdk8/Willow-By-Cricbuzzpng.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="willow.2">
+     <display-name lang="en">Willow 2</display-name>
+     <icon src="https://i.ibb.co/jygVkRY/Willow-Xtra-By-Cricbuzz.png" />
+     <icon src="https://i.ibb.co/jygVkRY/Willow-Xtra-By-Cricbuzz.png" />
+     <url>https://www.willow.com</url>
    </channel>
 </tv>
