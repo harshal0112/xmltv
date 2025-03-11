@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="9x.jhakas">
+    <display-name lang="en">9X Jhakas</display-name>
+    <icon src="https://i.ibb.co/3yVL1zM6/NnKOV9c.png" />
+    <icon src="https://i.ibb.co/3yVL1zM6/NnKOV9c.png" />
+    <url>https://www.9xjhakas.in</url>
+  </channel>
+  <channel id="9x.tashan">
+    <display-name lang="en">9X Tashan</display-name>
+    <icon src="https://i.ibb.co/DgP4WvXV/ATnMPp8.png" />
+    <icon src="https://i.ibb.co/DgP4WvXV/ATnMPp8.png" />
+    <url>https://www.9xtashan.in</url>
+  </channel>
+  <channel id="balle.balle">
+    <display-name lang="en">Balle Balle</display-name>
+    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
+    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
+    <url>https://www.balleballe.in</url>
+  </channel>
+  <channel id="maiboli">
+    <display-name lang="en">Maiboli</display-name>
+    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
+    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
+    <url>https://www.maiboli.in</url>
+  </channel>
+  <channel id="9xjalwa">
+     <display-name lang="en">9X Jalwa</display-name>
+     <icon src="https://i.ibb.co/gLBwp28F/Picsart-25-03-12-02-38-05-651.png" />
+     <icon src="https://i.ibb.co/gLBwp28F/Picsart-25-03-12-02-38-05-651.png" />
+     <url>https://www.9xjalwa.in</url>
+   </channel>
+   <channel id="only.music">
+     <display-name lang="en">Only Music</display-name>
+     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
+     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
+     <url>https://www.onlymusic.in</url>
+   </channel>
+   <channel id="music.india">
+     <display-name lang="en">Music India</display-name>
+     <icon src="https://i.ibb.co/rvz1c0F/Music-India.png" />
+     <icon src="https://i.ibb.co/rvz1c0F/Music-India.png" />
+     <url>https://www.musicindia.in</url>
+   </channel>
+   <channel id="yrf.music">
+     <display-name lang="en">YRF Music</display-name>
+     <icon src="https://i.ibb.co/PgVDKVQ/YrfMusic.png" />
+     <icon src="https://i.ibb.co/PgVDKVQ/YrfMusic.png" />
+     <url>https://www.yrfmusic.in</url>
+   </channel>
+   <channel id="Brit.asia.tv">
+     <display-name lang="en">Brit Asia TV</display-name>
+     <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
+     <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
+     <url>https://www.britasiatv.in</url>
+   </channel>
+</tv>
