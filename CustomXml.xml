@@ -74,14 +74,14 @@
    </channel>
    <channel id="tnt.sports.1">
      <display-name lang="en">TNT Sports 1</display-name>
-     <icon src="https://i.ibb.co/bMs3Y9WD/CSeeBxG.png" />
-     <icon src="https://i.ibb.co/bMs3Y9WD/CSeeBxG.png" />
+     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
+     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
      <url>https://www.tntsports.com</url>
    </channel>
    <channel id="fox.sports.501">
      <display-name lang="en">Fox Sports 501</display-name>
-     <icon src="https://i.ibb.co/vCLSYscb/YNrgGoJ.png" />
-     <icon src="https://i.ibb.co/vCLSYscb/YNrgGoJ.png" />
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
      <url>https://www.foxsports.com</url>
    </channel>
    <channel id="willow.hd">
@@ -221,5 +221,29 @@
      <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
      <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
      <url>https://www.sonykal.com</url>
+   </channel>
+   <channel id="tnt.sports.2">
+     <display-name lang="en">TNT Sports 2</display-name>
+     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
+     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.3">
+     <display-name lang="en">TNT Sports 3</display-name>
+     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
+     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.4">
+     <display-name lang="en">TNT Sports 4</display-name>
+     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
+     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.5">
+     <display-name lang="en">TNT Sports 5</display-name>
+     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
+     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
+     <url>https://www.tntsports.com</url>
    </channel>
 </tv>
