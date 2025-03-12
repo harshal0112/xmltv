@@ -86,14 +86,86 @@
    </channel>
    <channel id="willow.hd">
      <display-name lang="en">Willow HD</display-name>
-     <icon src="https://i.ibb.co/8PFvdk8/Willow-By-Cricbuzzpng.png" />
-     <icon src="https://i.ibb.co/8PFvdk8/Willow-By-Cricbuzzpng.png" />
+     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
+     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
      <url>https://www.willow.com</url>
    </channel>
    <channel id="willow.2">
      <display-name lang="en">Willow 2</display-name>
-     <icon src="https://i.ibb.co/jygVkRY/Willow-Xtra-By-Cricbuzz.png" />
-     <icon src="https://i.ibb.co/jygVkRY/Willow-Xtra-By-Cricbuzz.png" />
+     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
+     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
      <url>https://www.willow.com</url>
+   </channel>
+   <channel id="willow.Sports">
+     <display-name lang="en">Willow Sports</display-name>
+     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
+     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="Sports18.1">
+     <display-name lang="en">Sports18 1</display-name>
+     <icon src="https://i.ibb.co/3mpGHH7/Sports18-1.png" />
+     <icon src="https://i.ibb.co/3mpGHH7/Sports18-1.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.1.HD">
+     <display-name lang="en">Sports18 1 HD</display-name>
+     <icon src="https://i.ibb.co/bNSFB8P/Sports18-1-HD.png" />
+     <icon src="https://i.ibb.co/bNSFB8P/Sports18-1-HD.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.2">
+     <display-name lang="en">Sports18 2</display-name>
+     <icon src="https://i.ibb.co/ncFdwKz/Sports18-2.png" />
+     <icon src="https://i.ibb.co/ncFdwKz/Sports18-2.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.3">
+     <display-name lang="en">Sports18 3</display-name>
+     <icon src="https://i.ibb.co/b1Wsxnp/Sports18-3.png" />
+     <icon src="https://i.ibb.co/b1Wsxnp/Sports18-3.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Astro.Cricket">
+     <display-name lang="en">Astro Cricket</display-name>
+     <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
+     <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
+     <url>https://www.astro.au</url>
+   </channel>
+   <channel id="HBO Hits">
+     <display-name lang="en">HBO Hits</display-name>
+     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
+     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="HBO">
+     <display-name lang="en">HBO</display-name>
+     <icon src="https://i.ibb.co/Gvjvq7XT/q3fvKCN.png" />
+     <icon src="https://i.ibb.co/Gvjvq7XT/q3fvKCN.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="Cinemax">
+     <display-name lang="en">Cinemax</display-name>
+     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
+     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
+     <url>https://www.cinemax.com</url>
+   </channel>
+   <channel id="zee.chitramandir">
+     <display-name lang="en">Zee Chitramandir</display-name>
+     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
+     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
+     <url>https://www.zee5.com</url>
+   </channel>
+   <channel id="MBC Bollywood">
+     <display-name lang="en">MBC Bollywood</display-name>
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <url>https://www.mbcbollywood.com</url>
+   </channel>
+   <channel id="Bollywood HD">
+     <display-name lang="en">Bollywood HD</display-name>
+     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
+     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
+     <url>https://www.bollywoodhd.com</url>
    </channel>
 </tv>
