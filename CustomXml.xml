@@ -126,6 +126,12 @@
      <icon src="https://i.ibb.co/b1Wsxnp/Sports18-3.png" />
      <url>https://www.Sports18.in</url>
    </channel>
+   <channel id="Sports18.Khel">
+     <display-name lang="en">Sports18 Khel</display-name>
+     <icon src="https://i.ibb.co/SVZVg6J/Sports18-Khel.png" />
+     <icon src="https://i.ibb.co/SVZVg6J/Sports18-Khel.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
    <channel id="Astro.Cricket">
      <display-name lang="en">Astro Cricket</display-name>
      <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
@@ -140,8 +146,8 @@
    </channel>
    <channel id="HBO">
      <display-name lang="en">HBO</display-name>
-     <icon src="https://i.ibb.co/Gvjvq7XT/q3fvKCN.png" />
-     <icon src="https://i.ibb.co/Gvjvq7XT/q3fvKCN.png" />
+     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
+     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
      <url>https://www.HBO.com</url>
    </channel>
    <channel id="Cinemax">
@@ -167,5 +173,53 @@
      <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
      <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
      <url>https://www.bollywoodhd.com</url>
+   </channel>
+   <channel id="B4u.Movies.Apac">
+     <display-name lang="en">B4U Movies APAC</display-name>
+     <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
+     <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
+     <url>https://www.b4umovies.com</url>
+   </channel>
+   <channel id="Shemaroo.Bollywood">
+     <display-name lang="en">Shemaroo Bollywood</display-name>
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <url>https://www.Shemaroo.com</url>
+   </channel>
+   <channel id="Goldmines.Bollywood">
+     <display-name lang="en">Goldmines Bollywood</display-name>
+     <icon src="https://i.ibb.co/yBMGqLtt/soYdJdj.png" />
+     <icon src="https://i.ibb.co/yBMGqLtt/soYdJdj.png" />
+     <url>https://www.goldmines.com</url>
+   </channel>
+   <channel id="Goldmines.Movies">
+     <display-name lang="en">Goldmines Movies</display-name>
+     <icon src="https://i.ibb.co/xSpT518M/A9dKUYQ.png" />
+     <icon src="https://i.ibb.co/xSpT518M/A9dKUYQ.png" />
+     <url>https://www.Goldmines.com</url>
+   </channel>
+   <channel id="AXN">
+     <display-name lang="en">AXN</display-name>
+     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
+     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
+     <url>https://www.axn.com</url>
+   </channel>
+   <channel id="Warner.TV">
+     <display-name lang="en">Warner TV</display-name>
+     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
+     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
+     <url>https://www.warnertv.com</url>
+   </channel>
+   <channel id="desi.play.tv">
+     <display-name lang="en">Desi Play TV</display-name>
+     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
+     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
+     <url>https://www.desiplaytv.in</url>
+   </channel>
+   <channel id="sony.kal">
+     <display-name lang="en">Sony Kal</display-name>
+     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
+     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
+     <url>https://www.sonykal.com</url>
    </channel>
 </tv>
