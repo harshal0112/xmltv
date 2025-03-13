@@ -246,4 +246,16 @@
      <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
      <url>https://www.tntsports.com</url>
    </channel>
+   <channel id="saga.music">
+    <display-name lang="en">Saga Music</display-name>
+    <icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png" />
+    <icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png" />
+    <url>https://www.sagamusic.in</url>
+  </channel>
+  <channel id="the.movie.club">
+    <display-name lang="en">The Movie Club</display-name>
+    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
+    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
+    <url>https://www.themovieclub.in</url>
+  </channel>
 </tv>
