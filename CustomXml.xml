@@ -258,4 +258,34 @@
     <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
     <url>https://www.themovieclub.in</url>
   </channel>
+  <channel id="star.sports.2.hindi.hd">
+    <display-name lang="en">Star Sports 2 Hindi HD</display-name>
+    <icon src="https://i.ibb.co/24GFFSs/fKD9ixg.png" />
+    <icon src="https://i.ibb.co/24GFFSs/fKD9ixg.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.hindi">
+    <display-name lang="en">Star Sports 2 Hindi</display-name>
+    <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
+    <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.khel">
+    <display-name lang="en">Star Sports Khel</display-name>
+    <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
+    <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.telugu">
+    <display-name lang="en">Star Sports 2 Telugu</display-name>
+    <icon src="https://i.ibb.co/fdGZPRMv/ZuPMT4e.png" />
+    <icon src="https://i.ibb.co/fdGZPRMv/ZuPMT4e.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.tamil">
+    <display-name lang="en">Star Sports 2 Tamil</display-name>
+    <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
+    <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
 </tv>
