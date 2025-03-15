@@ -270,7 +270,7 @@
     <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.khel">
+  <channel id="Star.Sports.Khel">
     <display-name lang="en">Star Sports Khel</display-name>
     <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
     <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
@@ -287,5 +287,35 @@
     <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
     <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
     <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="Star.Utsav">
+    <display-name lang="en">Star Utsav</display-name>
+    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
+    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
+    <url>https://www.starutsav.in</url>
+  </channel>
+  <channel id="Big.Magic">
+    <display-name lang="en">Big Magic</display-name>
+    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
+    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
+    <url>https://www.bigmagic.in</url>
+  </channel>
+  <channel id="DD.National">
+    <display-name lang="en">DD National</display-name>
+    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
+    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
+    <url>https://www.ddnational.in</url>
+  </channel>
+  <channel id="DD.Sahyadri">
+    <display-name lang="en">DD Sahyadri</display-name>
+    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
+    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
+    <url>https://www.ddsahyadri.in</url>
+  </channel>
+  <channel id="Colors.Infinity.HD">
+    <display-name lang="en">Colors Infinity HD</display-name>
+    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
+    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
+    <url>https://www.colorsinfinity.in</url>
   </channel>
 </tv>
