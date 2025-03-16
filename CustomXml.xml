@@ -366,4 +366,28 @@
     <icon src="https://i.ibb.co/dwKDDvxj/vZdxrj8.png" />
     <url>https://www.cricketgold.in</url>
   </channel>
+  <channel id="Nat.Geo.Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
+    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
+    <url>https://www.Natgeowild.in</url>
+  </channel>
+  <channel id="Nat.Geo.Wild.HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
+    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="National.Geographic">
+    <display-name lang="en">National Geographic</display-name>
+    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
+    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="National.Geographic.HD">
+    <display-name lang="en">National Geographic HD</display-name>
+    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
+    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
 </tv>
