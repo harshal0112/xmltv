@@ -306,6 +306,12 @@
     <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
     <url>https://www.ddnational.in</url>
   </channel>
+  <channel id="DD.National.HD">
+    <display-name lang="en">DD National HD</display-name>
+    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
+    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
+    <url>https://www.ddnational.in</url>
+  </channel>
   <channel id="DD.Sahyadri">
     <display-name lang="en">DD Sahyadri</display-name>
     <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
@@ -332,8 +338,8 @@
   </channel>
   <channel id="MNX.HD">
     <display-name lang="en">MNX HD</display-name>
-    <icon src="https://i.ibb.co/kgqz52M5/3Rvsnn5.png" />
-    <icon src="https://i.ibb.co/kgqz52M5/3Rvsnn5.png" />
+    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
+    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
     <url>https://www.mnx.in</url>
   </channel>
   <channel id="MN+.HD">
@@ -389,5 +395,23 @@
     <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
     <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
     <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="Zee.Marathi.HD">
+    <display-name lang="en">Zee Marathi HD</display-name>
+    <icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png" />
+    <icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png" />
+    <url>https://www.zeemarathi.in</url>
+  </channel>
+  <channel id="Zee.Bollywood">
+    <display-name lang="en">Zee Bollywood</display-name>
+    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
+    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
+    <url>https://www.zeebollywood.in</url>
+  </channel>
+  <channel id="Zee.Classic">
+    <display-name lang="en">Zee Classic</display-name>
+    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
+    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
+    <url>https://www.zeeclassic.in</url>
   </channel>
 </tv>
