@@ -318,4 +318,52 @@
     <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
     <url>https://www.colorsinfinity.in</url>
   </channel>
+  <channel id="Star.Maa.Gold">
+    <display-name lang="en">Star Maa Gold</display-name>
+    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
+    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
+    <url>https://www.starmaagold.in</url>
+  </channel>
+  <channel id="Romedy.Now">
+    <display-name lang="en">Romedy Now</display-name>
+    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
+    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
+    <url>https://www.romedynow.in</url>
+  </channel>
+  <channel id="MNX.HD">
+    <display-name lang="en">MNX HD</display-name>
+    <icon src="https://i.ibb.co/kgqz52M5/3Rvsnn5.png" />
+    <icon src="https://i.ibb.co/kgqz52M5/3Rvsnn5.png" />
+    <url>https://www.mnx.in</url>
+  </channel>
+  <channel id="MN+.HD">
+    <display-name lang="en">MN+ HD</display-name>
+    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
+    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
+    <url>https://www.mnplus.in</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <icon src="https://i.ibb.co/MkdFn2yr/L6DHjsP.png" />
+    <icon src="https://i.ibb.co/MkdFn2yr/L6DHjsP.png" />
+    <url>https://www.eurosport.in</url>
+  </channel>
+  <channel id="Eurosport.HD">
+    <display-name lang="en">Eurosport HD</display-name>
+    <icon src="https://i.ibb.co/vCphGMSf/OpOZ0aE.png" />
+    <icon src="https://i.ibb.co/vCphGMSf/OpOZ0aE.png" />
+    <url>https://www.eurosport.in</url>
+  </channel>
+  <channel id="Pogo">
+    <display-name lang="en">Pogo</display-name>
+    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
+    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
+    <url>https://www.pogo.in</url>
+  </channel>
+  <channel id="Cricket.Gold">
+    <display-name lang="en">Cricket Gold</display-name>
+    <icon src="https://i.ibb.co/dwKDDvxj/vZdxrj8.png" />
+    <icon src="https://i.ibb.co/dwKDDvxj/vZdxrj8.png" />
+    <url>https://www.cricketgold.in</url>
+  </channel>
 </tv>
