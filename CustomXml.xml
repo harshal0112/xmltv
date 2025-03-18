@@ -414,4 +414,10 @@
     <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
     <url>https://www.zeeclassic.in</url>
   </channel>
+  <channel id="Fancode">
+    <display-name lang="en">Fancode</display-name>
+    <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
+    <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
+    <url>https://www.fancode.com</url>
+  </channel>
 </tv>
