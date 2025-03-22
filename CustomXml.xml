@@ -420,4 +420,22 @@
     <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
     <url>https://www.fancode.com</url>
   </channel>
+  <channel id="Saregama.Music">
+    <display-name lang="en">Saregama Music</display-name>
+    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
+    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
+    <url>https://www.saregama.com</url>
+  </channel>
+  <channel id="Superhit.Beats">
+    <display-name lang="en">Superhit Beats</display-name>
+    <icon src="https://i.ibb.co/CDyn6k5/HsS3L3L.png" />
+    <icon src="https://i.ibb.co/CDyn6k5/HsS3L3L.png" />
+    <url>https://www.samsung.com</url>
+  </channel>
+  <channel id="Kaan.Phod.Music">
+    <display-name lang="en">Kaan Phod Music</display-name>
+    <icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png" />
+    <icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png" />
+    <url>https://www.samsung.com</url>
+  </channel>
 </tv>
