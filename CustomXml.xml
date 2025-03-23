@@ -438,4 +438,22 @@
     <icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png" />
     <url>https://www.samsung.com</url>
   </channel>
+  <channel id="Zing">
+    <display-name lang="en">Zing</display-name>
+    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
+    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
+    <url>https://www.zee5.com</url>
+  </channel>
+  <channel id="Zoom">
+    <display-name lang="en">Zoom</display-name>
+    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
+    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
+    <url>https://www.zoom.com</url>
+  </channel>
+  <channel id="Disney.International.HD">
+    <display-name lang="en">Disney International HD</display-name>
+    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
+    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
+    <url>https://www.disney.com</url>
+  </channel>
 </tv>
