@@ -456,4 +456,10 @@
     <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
     <url>https://www.disney.com</url>
   </channel>
+  <channel id="Sky.Sports.Cricket">
+    <display-name lang="en">Sky Sports Cricket</display-name>
+    <icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png" />
+    <icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png" />
+    <url>https://www.skysports.com</url>
+  </channel>
 </tv>
