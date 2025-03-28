@@ -468,4 +468,34 @@
     <icon src="https://i.ibb.co/B5nFdsjg/Km9AvkJ.png" />
     <url>https://www.sonylive.com</url>
   </channel>
+  <channel id="Pop.Pataka">
+    <display-name lang="en">Pop Pataka</display-name>
+    <icon src="https://i.ibb.co/WWhSdDf4/qLRm3zK.png" />
+    <icon src="https://i.ibb.co/WWhSdDf4/qLRm3zK.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Dil.Se">
+    <display-name lang="en">Dil Se</display-name>
+    <icon src="https://i.ibb.co/rfy5qYp4/j6c0fKC.png" />
+    <icon src="https://i.ibb.co/rfy5qYp4/j6c0fKC.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Kadak.Hits">
+    <display-name lang="en">Cricket Blockbusters 24x7</display-name>
+    <icon src="https://i.ibb.co/Y4Yxsx1r/hRCKFvj.png" />
+    <icon src="https://i.ibb.co/Y4Yxsx1r/hRCKFvj.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Boogle.Bollywood">
+    <display-name lang="en">Boogle Bollywood</display-name>
+    <icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png" />
+    <icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Punjabi.Hits">
+    <display-name lang="en">Punjabi Hits</display-name>
+    <icon src="https://i.ibb.co/2Yf7RmX7/TIeuE3u.png" />
+    <icon src="https://i.ibb.co/2Yf7RmX7/TIeuE3u.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
 </tv>
