@@ -498,4 +498,10 @@
     <icon src="https://i.ibb.co/2Yf7RmX7/TIeuE3u.png" />
     <url>https://www.jiotv.com</url>
   </channel>
+  <channel id="Saregama.Telugu">
+    <display-name lang="en">Saregama Telugu</display-name>
+    <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
+    <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
 </tv>
