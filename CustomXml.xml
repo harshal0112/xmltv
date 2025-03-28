@@ -462,4 +462,10 @@
     <icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png" />
     <url>https://www.skysports.com</url>
   </channel>
+  <channel id="Cricket.Blockbusters.24x7">
+    <display-name lang="en">Cricket Blockbusters 24x7</display-name>
+    <icon src="https://i.ibb.co/GfjxZyyN/DIQ8TpR.png" />
+    <icon src="https://i.ibb.co/GfjxZyyN/DIQ8TpR.png" />
+    <url>https://www.sonylive.com</url>
+  </channel>
 </tv>
