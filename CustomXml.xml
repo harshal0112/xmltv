@@ -510,4 +510,10 @@
     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
     <url>https://www.jiotv.com</url>
   </channel>
+  <channel id="Power.Kids.TV">
+    <display-name lang="en">Power Kids TV</display-name>
+    <icon src="https://i.ibb.co/hxxy1Nj8/662hCig.png" />
+    <icon src="https://i.ibb.co/hxxy1Nj8/662hCig.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
 </tv>
