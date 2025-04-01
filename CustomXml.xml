@@ -38,20 +38,26 @@
    </channel>
    <channel id="music.india">
      <display-name lang="en">Music India</display-name>
-     <icon src="https://i.ibb.co/rvz1c0F/Music-India.png" />
-     <icon src="https://i.ibb.co/rvz1c0F/Music-India.png" />
+     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
+     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
      <url>https://www.musicindia.in</url>
    </channel>
    <channel id="yrf.music">
      <display-name lang="en">YRF Music</display-name>
-     <icon src="https://i.ibb.co/PgVDKVQ/YrfMusic.png" />
-     <icon src="https://i.ibb.co/PgVDKVQ/YrfMusic.png" />
+     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
+     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
      <url>https://www.yrfmusic.in</url>
+   </channel>
+   <channel id="Showbox">
+     <display-name lang="en">Showbox</display-name>
+     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
+     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
+     <url>https://www.showbox.in</url>
    </channel>
    <channel id="brit.asia.tv">
      <display-name lang="en">Brit Asia TV</display-name>
-     <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
-     <icon src="https://i.ibb.co/k6MkYK2/Brit-Asia-TV.png" />
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
      <url>https://www.britasiatv.in</url>
    </channel>
    <channel id="shemaroo.filmi.gaane">
@@ -527,5 +533,29 @@
     <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
     <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
     <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="E24">
+    <display-name lang="en">E24</display-name>
+    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
+    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="B4U.Music">
+    <display-name lang="en">B4U Music</display-name>
+    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
+    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Discovery.Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
+    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
+    <url>https://www.discovery.com</url>
+  </channel>
+  <channel id="Discovery.HD.World">
+    <display-name lang="en">Discovery HD World</display-name>
+    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
+    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
+    <url>https://www.discovery.com</url>
   </channel>
 </tv>
