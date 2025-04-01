@@ -570,10 +570,10 @@
     <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
     <url>https://www.sky.com</url>
   </channel>
-  <channel id="Utsav.Plus.HD">
-    <display-name lang="en">Utsav Plus HD</display-name>
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+  <channel id="Utsav.Gold.HD">
+    <display-name lang="en">Utsav Gold HD</display-name>
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
     <url>https://www.sky.com</url>
   </channel>
 </tv>
