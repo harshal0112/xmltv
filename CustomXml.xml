@@ -356,8 +356,8 @@
   </channel>
   <channel id="Cricket.Gold">
     <display-name lang="en">Cricket Gold</display-name>
-    <icon src="https://i.ibb.co/dwKDDvxj/vZdxrj8.png" />
-    <icon src="https://i.ibb.co/dwKDDvxj/vZdxrj8.png" />
+    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
+    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
     <url>https://www.cricketgold.in</url>
   </channel>
   <channel id="Nat.Geo.Wild">
@@ -514,6 +514,18 @@
     <display-name lang="en">Eurosport</display-name>
     <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
     <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Mastiii">
+    <display-name lang="en">Mastiii</display-name>
+    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
+    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="GOOD.TiMES">
+    <display-name lang="en">GOOD TiMES</display-name>
+    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
+    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
     <url>https://www.jiotv.com</url>
   </channel>
 </tv>
