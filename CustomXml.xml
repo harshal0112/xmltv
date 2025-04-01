@@ -516,4 +516,16 @@
     <icon src="https://i.ibb.co/hxxy1Nj8/662hCig.png" />
     <url>https://www.jiotv.com</url>
   </channel>
+  <channel id="Eurosport.HD">
+    <display-name lang="en">Eurosport HD</display-name>
+    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
+    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
 </tv>
