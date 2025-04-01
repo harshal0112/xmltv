@@ -348,18 +348,6 @@
     <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
     <url>https://www.mnplus.in</url>
   </channel>
-  <channel id="Eurosport">
-    <display-name lang="en">Eurosport</display-name>
-    <icon src="https://i.ibb.co/MkdFn2yr/L6DHjsP.png" />
-    <icon src="https://i.ibb.co/MkdFn2yr/L6DHjsP.png" />
-    <url>https://www.eurosport.in</url>
-  </channel>
-  <channel id="Eurosport.HD">
-    <display-name lang="en">Eurosport HD</display-name>
-    <icon src="https://i.ibb.co/vCphGMSf/OpOZ0aE.png" />
-    <icon src="https://i.ibb.co/vCphGMSf/OpOZ0aE.png" />
-    <url>https://www.eurosport.in</url>
-  </channel>
   <channel id="Pogo">
     <display-name lang="en">Pogo</display-name>
     <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
