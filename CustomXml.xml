@@ -558,6 +558,12 @@
     <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
     <url>https://www.discovery.com</url>
   </channel>
+  <channel id="Utsav.Plus">
+    <display-name lang="en">Utsav Plus</display-name>
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <url>https://www.sky.com</url>
+  </channel>
   <channel id="Utsav.Plus.HD">
     <display-name lang="en">Utsav Plus HD</display-name>
     <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
@@ -568,6 +574,12 @@
     <display-name lang="en">Utsav Bharat</display-name>
     <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
     <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="Utsav.Gold">
+    <display-name lang="en">Utsav Gold</display-name>
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="Utsav.Gold.HD">
