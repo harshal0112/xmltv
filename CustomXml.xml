@@ -594,4 +594,10 @@
     <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
     <url>https://www.mangomobile.com</url>
   </channel>
+  <channel id="Bflix">
+    <display-name lang="en">Bflix</display-name>
+    <icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png" />
+    <icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png" />
+    <url>https://www.Bflix.com</url>
+  </channel>
 </tv>
