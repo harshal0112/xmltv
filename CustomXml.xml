@@ -588,4 +588,10 @@
     <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
     <url>https://www.sky.com</url>
   </channel>
+  <channel id="MANGOTV">
+    <display-name lang="en">MANGOTV</display-name>
+    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
+    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
+    <url>https://www.mangomobile.com</url>
+  </channel>
 </tv>
